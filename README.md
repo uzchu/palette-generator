@@ -2,7 +2,7 @@
 Using deep learning method(GAN) to generate color palette
 
 
-## 兼容
+## 호환버전
 
 Python 3.6  
 keras 2.2.0  
@@ -10,39 +10,40 @@ tensorflow 1.14.0
 
 
 
-## 更新
+## 갱신
 
-| Date       | Update     |
-| ---------- | ---------- |
-| 2019-08-28 | 第一次上传 |
+| Date       | Update       |
+| ---------- | ------------ |
+| 2019-08-28 | First upload |
 
-## 数据
+## 데이터
 
-如果想训练你自己的数据，那么请参考palettes文件夹下的格式
+자체 데이터를 교육하려면 palettes 폴더의 형식을 참조하십시오.
 
 
 
-## 训练
+## Train
 
-请参考jupyter文件内的步骤操作
+작업은 jupyter 파일의 단계를 참조하십시오.
 
-## 测试
+## Test
 
 ```
 python color_generator.py your_weight_path
 ```
 
-## 预训练权重
+## Pre-training weight
 链接：[baiduyun](https://pan.baidu.com/s/1Qv7JkkKURRAdmOqIzsBbSg)  
 密码:n2ps
 
 
 ## dataset
-从[colorlover](https://www.colourlovers.com/)进行爬虫得到,具体代码可移步到我的另外一个目录下[learning-selenium](https://github.com/ray0809/learning-selenium)
+[colorlover](https://www.colourlovers.com/)에서 특정 코드를 내 다른 디렉토리 [learning-selenium](https://github.com/ray0809/learning-selenium)로 이동할 수 있다.
+
+
 
 训练数据：
 ![dir_network](./images/training_samples.jpg)
-  
 
-测试效果：
+Test result：
 ![dir_network](./images/training_results.jpg)
