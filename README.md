@@ -42,7 +42,7 @@ python color_generator.py your_weight_path
 
 
 
-训练数据：
+Train data：
 ![dir_network](./images/training_samples.jpg)
 
 Test result：
