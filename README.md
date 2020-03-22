@@ -2,7 +2,7 @@
 Using deep learning method(GAN) to generate color palette
 
 
-## 호환버전
+## Compatibility
 
 Python 3.6  
 keras 2.2.0  
@@ -10,13 +10,13 @@ tensorflow 1.14.0
 
 
 
-## 갱신
+## Update
 
 | Date       | Update       |
 | ---------- | ------------ |
 | 2019-08-28 | First upload |
 
-## 데이터
+## Data
 
 자체 데이터를 교육하려면 palettes 폴더의 형식을 참조하십시오.
 
